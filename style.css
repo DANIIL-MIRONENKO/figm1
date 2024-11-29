@@ -1,3 +1,10 @@
 h1{ 
     border: 15px solid black;
 }
+
+p{
+
+   display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+}
